@@ -14,7 +14,7 @@ Find out where to get vaccinated here:
 - [https://www.cdc.gov/vaccines/covid-19/reporting/vaccinefinder/about.html](https://www.cdc.gov/vaccines/covid-19/reporting/vaccinefinder/about.html)
 
 #### California
-- [https://myturn.ca.gov]9https://myturn.ca.gov)
+- [https://myturn.ca.gov](https://myturn.ca.gov)
 
 
 
