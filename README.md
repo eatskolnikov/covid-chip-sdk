@@ -15,4 +15,9 @@ Find out where to get vaccinated here:
 
 
 
-Than you!
+Thank you!
+
+
+PS:
+
+Please star this repo and reshare [this tweet](https://twitter.com/eatskolnikov/status/1377734330529746949) to reach more people.
