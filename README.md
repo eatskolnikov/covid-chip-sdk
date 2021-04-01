@@ -1,4 +1,4 @@
-# covid-chip-SDK
+# The Covid 19 chip SDK
 
 This is a joke for april fool's day.
 
