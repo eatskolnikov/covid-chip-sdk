@@ -4,7 +4,7 @@ This is a joke for april fool's day.
 
 Now that I have your attention it is very important to get vaccinated and **that** is no joke.
 
-You can help by submitting a PR with information on how and where to get vaccinated in your country of residence.
+You can help by editing this readme with information on how and where to get vaccinated in your country, state or province of residence.
 
 Find out where to get vaccinated here:
 
